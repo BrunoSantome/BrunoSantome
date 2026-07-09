@@ -7,7 +7,7 @@
 Building applied ML that ships — from production backends to on-device deep learning.
 Currently completing an **MSc in Artificial Intelligence** (London) while specialising in **Edge AI**.
 
-📍 London, UK &nbsp;•&nbsp; 🎯 Open to **ML/AI Engineer**, **Forward-Deployed AI Engineer** & **Backend + ML** roles
+📍 London, UK &nbsp;•&nbsp; 🎯 Open to **ML/AI Engineer**, **Forward-Deployed Engineer** & **Backend + ML** roles
 
 <a href="https://www.linkedin.com/in/bruno-santome-antolin-es/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:b.santomeantolin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
