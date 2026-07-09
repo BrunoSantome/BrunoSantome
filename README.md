@@ -63,6 +63,7 @@ Software engineer with **3 years of industry experience** building and deploying
 ![Keycloak](https://img.shields.io/badge/Keycloak-008AAA?style=flat-square&logo=keycloak&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
