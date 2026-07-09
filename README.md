@@ -46,7 +46,7 @@ Software engineer with **3 years of industry experience** building and deploying
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-*Focus areas: knowledge distillation · quantisation · on-device / edge deployment · offline speech (Vosk) · intent classification*
+*Focus areas: knowledge distillation · quantisation · on-device / edge deployment · offline speech (Vosk) · *
 
 **MLOps & Tooling**
 
