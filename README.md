@@ -2,10 +2,12 @@
 
 # Hi, I'm Bruno Santomé 👋
 
-### ML / AI Engineer with a software-engineering backbone
+### Software engineer building ML and AI systems
+
+I build applied ML that ships, from production backends to on-device deep learning. 
+Currently completing an MSc in Artificial Intelligence in London, with a particular interest in edge AI and model compression.
 
 Building applied ML that ships — from production backends to on-device deep learning.
-Currently completing an **MSc in Artificial Intelligence** (London) while specialising in **Edge AI**.
 
 📍 London, UK &nbsp;•&nbsp; 🎯 Open to **ML/AI Engineer**, **Forward-Deployed Engineer** & **Backend + ML** roles
 
