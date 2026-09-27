@@ -7,8 +7,6 @@
 I build applied ML that ships, from production backends to on-device deep learning. 
 Currently completing an MSc in Artificial Intelligence in London, with a particular interest in edge AI and model compression.
 
-Building applied ML that ships — from production backends to on-device deep learning.
-
 📍 London, UK &nbsp;•&nbsp; 🎯 Open to **ML/AI Engineer**, **Forward-Deployed Engineer** & **Backend + ML** roles
 
 <a href="https://www.linkedin.com/in/bruno-santome-antolin-es/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
