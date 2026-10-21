@@ -104,7 +104,7 @@ A study benchmarking machine-learning algorithms for predicting diagnosis and dy
 ## 💼 Experience snapshot
 
 **ML & Software Engineer — UBICUA** · *Oct 2024 – May 2026*
-One of three engineers on a €1M national R&D connected-vehicle identity platform (TRL 8). Built two full-stack platforms end-to-end, owned four production Linux servers, and shipped a fully offline ES/EN intent classifier **quantised from ~1 GB to 96 MB** running on-device at 90% accuracy.
+One of four engineers on a €1M national R&D connected-vehicle identity platform (TRL 8). Built two full-stack platforms end-to-end, owned four production Linux servers, and shipped a fully offline ES/EN intent classifier **quantised from ~1 GB to 96 MB** running on-device at 90% accuracy.
 
 **Software Engineer Consultant — ALTEN (Airbus SIRTAP)** · *Sep 2023 – Oct 2024*
 Developed, verified and validated safety-critical software for an Airbus tactical UAS ground control station, and co-built a Python test-automation framework adopted across four internal projects.
