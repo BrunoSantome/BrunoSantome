@@ -73,6 +73,10 @@ Software engineer with **3 years of industry experience** building and deploying
 An LLM agent that turns natural-language requests into structured payments, with a **deterministic policy engine** deciding whether each one is approved, **held for human review**, or denied. The model never approves a payment or reports on one; denials feed back into the conversation so the agent can revise. Found and fixed a live failure where **an LLM outage led to the wrong payee being paid**. Covered by **178 tests**.
 `Python` · `Gemini` · `Pydantic` · `pytest`
 
+### 🚗 [Incremental Learning on the Edge](https://github.com/BrunoSantome/incremental_learning_on_the_edge)
+End-to-end pipeline that lets an **in-vehicle voice assistant learn new intents after deployment**. A 68M-parameter Ettin encoder, **distilled from DeBERTa-v3-large** and trained on 15 MASSIVE intents, flags unfamiliar requests with an **energy-based out-of-distribution score**. The server then uses **Claude** to name the new intent and generate synthetic training data, retrains with a **replay buffer** so old intents are not forgotten, and ships a new model version back to the vehicle.
+`PyTorch` · `Hugging Face` · `Claude API` · `Weights & Biases`
+
 ### 🛰️ [ViT-UNet for Marine-Debris Semantic Segmentation](https://github.com/BrunoSantome/ViT-Unet-Semantic-Segmentation-for-Marine-Debris-detection)
 Hybrid ViT-UNet for detecting marine plastic on Sentinel-2 satellite imagery. Adapted an ImageNet ViT-B/16 encoder from 3 RGB to **11 spectral bands** via weight surgery and positional-embedding interpolation — **beating the published MARIDA baselines** (Random Forest & U-Net) on mean IoU (0.73 vs 0.69 and 0.57).
 `PyTorch` · `timm` · `Weights & Biases`
